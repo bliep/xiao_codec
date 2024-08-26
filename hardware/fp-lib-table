@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "seeed")(type "KiCad")(uri "/Users/adev/Desktop/AIC/OPL_Kicad_Library/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "Footprint_Library")(type "KiCad")(uri "${KIPRJMOD}/Footprint_Library.pretty")(options "")(descr ""))
+)
